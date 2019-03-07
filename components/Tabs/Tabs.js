@@ -24,7 +24,7 @@ class TabLink {
   select() {
     // Get all of the elements with the tabs-link class
     // const links;
-    console.log(this.itemElement);
+    // console.log(this.itemElement);
     const links = document.getElementsByClassName('tabs-link');
     
     // Using a loop or the forEach method remove the 'tabs-link-selected' class from all of the links
